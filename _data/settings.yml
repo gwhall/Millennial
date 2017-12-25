@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 menu:
-- {name: 'Guatemala Coffee Experiements', folder: '_posts', file: '2016-04-04-about-the-author.md'}
+- {name: 'Guatemala Coffee Experiements', folder: 'posts', file: '2017-12-24-About the Author.md'}
 
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
