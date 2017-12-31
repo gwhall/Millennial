@@ -1,7 +1,7 @@
 # Change to true for Disqus comments
 disqus:
-  comments: false
-  disqus_shortname: 'millennial-3'
+  comments: TRUE
+  disqus_shortname: 'gwhall'
 
 menu:
 - {name: 'Guatemala Coffee Experiements', folder: 'posts', file: '2017-12-24-About the Author.md'}
