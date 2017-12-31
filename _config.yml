@@ -20,3 +20,7 @@ author:              "Griffin Hall"
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+#to add images 
+baseurl: "/guatemalacoffee"
+url: "http://gwhall.github.io" 
