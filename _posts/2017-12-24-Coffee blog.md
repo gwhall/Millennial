@@ -4,7 +4,7 @@ title: "Coffee Blog 2017"
 author: "Griffin Hall"
 categories: facts
 tags: [sample]
-image: Patio beans.jpg
+image: Fermentation tank with me and datalogger.jpg
 ---
 
 <body>
