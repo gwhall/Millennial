@@ -2,7 +2,7 @@
 layout: post
 title: "Coffee Blog 2017"
 author: "Griffin Hall"
-categories: sample
+categories: facts
 tags: [sample]
 image: Patio beans.jpg
 
