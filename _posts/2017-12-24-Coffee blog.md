@@ -4,7 +4,8 @@ title: "Coffee Blog 2017"
 author: "Griffin Hall"
 categories: sample
 tags: [sample]
-image: 
+image: Patio beans.jpg
+
 ---
 
 <body>
