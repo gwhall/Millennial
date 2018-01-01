@@ -8,7 +8,7 @@ image: Fermentation tank with me and datalogger.jpg
 ---
 
 <body>
- In mid November 2017, I went to the Acatenango Region of Guatemala for five weeks to perform experiments in the wet mill to improve the fermentation phase of coffee processing. I lived in a nice finca house only a few kilometers from the bases of the Acatenango (dormant) and Fuego (active) volcanos. <br><img src="https://a.com.gt/log/imgs/2009/11/IMG_3690.JPG" alt="Mountain View">
+ In mid November 2017, I went to the Acatenango Region of Guatemala for five weeks to perform experiments in the wet mill to improve the fermentation phase of coffee processing. I lived in a nice finca house only a few kilometers from the bases of the Acatenango (dormant) and Fuego (active) volcanos. These ones! <br><img src="https://a.com.gt/log/imgs/2009/11/IMG_3690.JPG" alt="Two volcanos">
 <br><br>
 A lot happened in five weeks, but for you Tl:Dr types- here is what I learned in a nutshell. <br><br>
 
@@ -25,7 +25,7 @@ Ok, you want to learn more?
 <br><br>
 I just ask you remember one key thing: 
 <br><br>
-1. Fermentation is a strictly anaerobic process (insert photo of metabolism). There is no such thing as aerobic fermentation. The misuse of the word fermentation is rampant in the coffee world and incorrectly suggests we actually know what is happening during this phase.  In reality, we only know that there is an entire suite of microbial metabolisms occurring (Some require oxygen, others no). The details remain mostly unknown. I believe that characterization of the microbiota will become essential knowledge if coffee producers truly wish to control and improve their wet processing method, and overall be resilient to change. 
+1. Fermentation is a strictly anaerobic process <br><img src="https://www2.estrellamountain.edu/faculty/farabee/biobk/alcferm.gif" alt="metabolism"><br>. There is no such thing as aerobic fermentation. The misuse of the word fermentation is rampant in the coffee world and incorrectly suggests we actually know what is happening during this phase.  In reality, we only know that there is an entire suite of microbial metabolisms occurring (Some require oxygen, others no). The details remain mostly unknown. I believe that characterization of the microbiota will become essential knowledge if coffee producers truly wish to control and improve their wet processing method, and overall be resilient to change. 
 <br><br>	
 Since I want to keep this focused as much as possible on my experience (aka less textbook-y), here is a link to useful background information to know. (insert hyperlinks)
 <br>-	Coffee fruit anatomy 
