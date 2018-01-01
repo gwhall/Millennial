@@ -12,7 +12,7 @@ image: Fermentation tank with me and datalogger.jpg
 <br><br>
 A lot happened in five weeks, but for you Tl:Dr types- here is what I learned in a nutshell. <br><br>
 
-<img src="{{ site.github.url }}/assets/img/arctic-2.jpg">
+<img src="{{ site.github.url }}/assets/img/Patio beans.jpg">
 
 
 1. Most coffee people here are aware that climate change threatens coffee production. Managers realize that they must learn to adjust their practices, and this includes incorporating scientific research and methods. Yet, the lack of formal education and resources (both human labor and material) makes doing real scientific experiments nearly impossible in the field.  
