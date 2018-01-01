@@ -12,6 +12,7 @@ image: Fermentation tank with me and datalogger.jpg
 <br><br>
 A lot happened in five weeks, but for you Tl:Dr types- here is what I learned in a nutshell. <br><br>
 An image: ![gras](assets/img/Patio beans.jpg)
+![Wikipedia logo](http://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg "Wikipedia logo")
 
 
 
