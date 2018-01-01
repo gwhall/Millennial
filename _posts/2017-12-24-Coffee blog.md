@@ -11,8 +11,8 @@ image: Fermentation tank with me and datalogger.jpg
  In mid November 2017, I went to the Acatenango Region of Guatemala for five weeks to perform experiments in the wet mill to improve the fermentation phase of coffee processing. I lived in a nice finca house only a few kilometers from the bases of the Acatenango (dormant) and Fuego (active) volcanos. (insert volcano photos)
 <br><br>
 A lot happened in five weeks, but for you Tl:Dr types- here is what I learned in a nutshell. <br><br>
-<p>An image: <img src="gwhall.github.io/guatemalacoffee/assets/img/Patio beans.jpg" alt="gras" /></p>
 
+<img src="{{ site.github.url }}/assets/img/arctic-2.jpg">
 
 
 1. Most coffee people here are aware that climate change threatens coffee production. Managers realize that they must learn to adjust their practices, and this includes incorporating scientific research and methods. Yet, the lack of formal education and resources (both human labor and material) makes doing real scientific experiments nearly impossible in the field.  
