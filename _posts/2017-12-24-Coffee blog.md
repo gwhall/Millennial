@@ -147,7 +147,7 @@ Workers accidentally spilled water in the patio on one set of drying pergaminos.
 <br><br>12/11/17 
 <br>Today I had the privilege of attending the <a href="https://en.wikipedia.org/wiki/Coffee_cupping">Coffee cupping session</a> of our samples at Anacafé. There are still many samples that are drying, and will be cupped after I leave Guatemala. I had attended a handful of informal cupping sessions at Bay Area cafes, but it was new to attend one that assigned formal scores that involved meticulous notes. Here is how it goes (attach cupping process photo). 
 The cuppers are all professional Q graders (the highest certification) who cup many dozens of samples all day. They must follow a restricted diet around when they will cup- this includes no alcohol or tobacco. Here is a video of them in action. 
-<br> <img src="{{ site.github.url }}/assets/img/Cupping.mv4">
+<br> <img src="{{ site.github.url }}/assets/img/Cupping.m4v">
 
 <br><br>12/14/17
 <br>My depature is looming and we are squeezing in the last of the experiments (mostly replicates of previous ones in an attempt to make the data a little stronger). When I leave, Jose Juan will fully take charge of monitoring the drying samples and ensuring their delivery to Anacafe after the holidays. He must also counting dry eans and record the data. I realized that no one else at the mill, besides maybe El colocho, would be able to do this. I realized I had no idea how many mill employees had attended high school, nor how many could read/ write. Data entry suddenly seemed more complicated- I had been taking my education partially for granted.  
