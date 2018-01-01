@@ -12,10 +12,6 @@ image: Fermentation tank with me and datalogger.jpg
 <br><br>
 A lot happened in five weeks, but for you Tl:Dr types- here is what I learned in a nutshell. <br><br>
 
-<img src="{{ site.github.url }}/assets/img/Patio beans.jpg">
-
-
-
 1. Most coffee people here are aware that climate change threatens coffee production. Managers realize that they must learn to adjust their practices, and this includes incorporating scientific research and methods. Yet, the lack of formal education and resources (both human labor and material) makes doing real scientific experiments nearly impossible in the field.  
 <br>2. Very few people work very long hours for 5 or 6 days a week at the mill. 
 <br>3. The producers of coffee often don’t get to consume the coffee that they process.
@@ -25,13 +21,13 @@ Ok, you want to learn more?
 <br><br>
 I just ask you remember one key thing: 
 <br><br>
-1. Fermentation is a strictly anaerobic process <br><img src="https://www2.estrellamountain.edu/faculty/farabee/biobk/alcferm.gif" alt="metabolism"><br>. There is no such thing as aerobic fermentation. The misuse of the word fermentation is rampant in the coffee world and incorrectly suggests we actually know what is happening during this phase.  In reality, we only know that there is an entire suite of microbial metabolisms occurring (Some require oxygen, others no). The details remain mostly unknown. I believe that characterization of the microbiota will become essential knowledge if coffee producers truly wish to control and improve their wet processing method, and overall be resilient to change. 
+1. Fermentation is a strictly anaerobic process. <br><img src="https://www2.estrellamountain.edu/faculty/farabee/biobk/alcferm.gif" alt="metabolism"><br> There is no such thing as aerobic fermentation. The misuse of the word fermentation is rampant in the coffee world and incorrectly suggests we actually know what is happening during this phase.  In reality, we only know that there is an entire suite of microbial metabolisms occurring (Some require oxygen, others no). The details remain mostly unknown. I believe that characterization of the microbiota will become essential knowledge if coffee producers truly wish to control and improve their wet processing method, and overall be resilient to change. 
 <br><br>	
 Since I want to keep this focused as much as possible on my experience (aka less textbook-y), here is a link to useful background information to know. (insert hyperlinks)
-<br>-	Coffee fruit anatomy 
-<br>-	Coffee fruit’s fate after picking (wet or dry method processes)
+<br>-	<a href="http://redberrycoffee.co.id/wp-content/uploads/2017/04/Anatomy-of-a-Coffee-Bean-3-e1493459376430.jpg">Coffee fruit anatomy</a>
+<br>-	<a href="http://www.fao.org/docrep/003/X6939E/img/dry_processing1.gif">Coffee fruit’s fate after picking (wet or dry method processes)</a>
 <br>-	Details of the wet processing method
-<br>-	Why “fermentation” is used (to convert the mucilage from insoluble to soluble substance). 
+<br>-	<a href="https://en.wikipedia.org/wiki/Coffee_production#Wet_process">Why “fermentation” is used (to convert the mucilage from insoluble to soluble substance)</a> 
 <br><br><br><br>
 
 Coffee producers have always relied upon traditional methods to grow and process, which are mostly unscientific. For example, take the “stick test” (insert video of JJ). However, producers (often influenced by wine production methods) are becoming more interested in controlling conditions, and incorporating scientific techniques. The fermentation step is becoming scrutinized more, and people want to know how to manipulate it better. One company sells yeast that you can add to the batch to help homogenize the fermentation product. My bosses bought some, but didn’t know how to best use it. This is where I come in- I was asked to come to specifically test how under what conditions the yeast works best to reduce fermentation time and/or improve coffee quality. 
@@ -56,11 +52,14 @@ Each criba has holes that allow seeds under a certain size to pass. In the first
 <br><br>
 Three dump trucks arrive each evening. Every time, multiple tons of coffee are processed. Yet, this is accomplished by a very few number of employees. The average worker seems to arrive around 6:30 am, and some do not leave until 8 or 9 pm (if there is no problem/ delay…which there often are).
 <br><br>
-The Team (left to right) 
+The Team <br>
+<img src="{{ site.github.url }}/assets/img/Team.jpg">
+<br>(left to right) 
 <br>Jairo Sigüil, Wilfido Galindo, Alberto Wiwi, Hilario Jimón, Don Layo, Griffin Hall (the only english speaker), José Juan Alvarez, Derick Xía, Eliseo Calléjas, Juan Cos, Warner Cos, Francisco Pérez (El colocho)
 <br><br>
 I didn’t get to interact with all, but here are mini bios of some. 
 <br>1. El Colocho
+<br><img src="{{ site.github.url }}/assets/img/Colocho.jpg">
 <br>	Records harvest weight, and uses a portable refractometer (Brix) to record sugar content of the fruit. Normally, mature coffee has between 18-21% sugar. El colocho doesn’t have an email address, but he does have a cell phone. He has been working at the mill for 44 years, since he was 13. Back then, he was paid 50 cents a day. 
 <br>
 <br>2. Hilario and Hilario (aka Tomas)
@@ -72,10 +71,11 @@ Hilario (son) is mostly responsible for overseeing the classifications (1B,2,1C,
 <br>	Drying master. He monitors post- wash pergaminos until seeds contain humidity ~10%, which can then be sent to a dry mill for further processing. 
 <br><br>	
 4. Juan (did not appear in the group photo)
+<br><img src="{{ site.github.url }}/assets/img/Juan.jpg">
 <br>Walks ~6 km to/from work each day. Has been doing this for decades. 
 <br><br>
 
-Despite the reliable efforts of these diligent workers and the many harvesters, producing quality coffee is always challenging and uncertain. One of the first things my boss told me was that climate change affects them in a big way. Weather is becoming more variable here, including more frequent severe weather that can damage/ remove cherries from branches, wash away soil from roots, and spread disease. Hectares of prime farmland are disappearing, and you can only plant so high on a mountain until you are at the top. In 2011, this company was hit hard with a “Roya” (coffee leaf rust) outbreak that reduced production by 75% of their previous year’s production. They still are below prior production levels.
+Despite the reliable efforts of these diligent workers and the many harvesters, producing quality coffee is always challenging and uncertain. One of the first things my boss told me was that climate change affects them in a big way. Weather is becoming more variable here, including more frequent severe weather that can damage/ remove cherries from branches, wash away soil from roots, and spread disease. Hectares of prime farmland are disappearing, and you can only plant so high on a mountain until you are at the top. In 2011, this company was hit hard with a “Roya” <a href="https://en.wikipedia.org/wiki/Hemileia_vastatrix">coffee leaf rust</a> outbreak that reduced production by 75% of their previous year’s production. They still are below prior production levels.
 
 
 <br><br>11/20/17
@@ -87,7 +87,7 @@ At night, I tried to do some some internet research to find which factors could 
 <br>Ok, today will be an expanded version of yesterday’s experiment. 
 For each experiment, we used 10 kg of pergamino in each big blue bucket. Instead of the stick method, we used pH strips to determine when to terminate. (about pH 4). 
 
-Over the weekend, I met a very small producer in San Miguel, at Lake Atitlán. He told me a tale of the MoscaMed program. (insert hyperlink to official site). He had no doubt that the program is a conspiracy, created by México to purposefully spread the Roya in Guatemala to relatively elevate their own industry. 
+Over the weekend, I met a very small producer in San Miguel, at Lake Atitlán. He told me a tale of the <a href="https://translate.google.com/translate?hl=en&sl=es&u=http://moscamed-guatemala.org.gt/&prev=search">MoscaMed program</a>. He had no doubt that the program is a conspiracy, created by México to purposefully spread the Roya in Guatemala to relatively elevate their own industry. 
 When I asked my boss, he immediately denounced that claim, saying the fly doesn’t do much to spread the roya. 
 The Roya is no joke. There are ~90 varieties of the Roya, and it often mutates after each fungicide application. Boss believes there may be a cure, but the fungicide industry won’t let it out… hmm…
 
@@ -107,7 +107,7 @@ Today I also learned that when coffee is more mature to begin with (aka higher B
 <br>Today we began to determine wash point with a mixture of pH and traditional knowledge. After 18.5 hours of fermentation, the pH of covered bucket =4, and pH open=5. Hilario said that even though pH was low enough for the covered, it still wasn’t ready because of touch (the miel didn’t come off easily). We waited 1.5 hours, then washed. 
 
 
-As part of this blog, I want to show people what the culture is like in a coffee producing country. Everyday, Jose Juan and I travel the same route through the town of San Pedro Yepocapa (Insert hyperlink to wiki) I took a 10 min video of Yepocapa to show people where these coffee workers come from. Not having a gimble makes me realize how bumpy the road is!  In addition to the cobblestones, this town of 20,000 people has 20 speed bumps. 
+As part of this blog, I want to show people what the culture is like in a coffee producing country. Everyday, Jose Juan and I travel the same route through the town of <a href="https://en.wikipedia.org/wiki/Yepocapa">San Pedro Yepocapa.</a> I took a 10 min video of Yepocapa to show people where these coffee workers come from. Not having a gimble makes me realize how bumpy the road is!  In addition to the cobblestones, this town of 20,000 people has 20 speed bumps. 
 
 There was ice on the volano this morning. Alfredo sent me photos. 
 
@@ -127,7 +127,10 @@ I’m still keeping my eye on the flies. I partly hate them because they bite an
 
 
 <br><br>12/4/17
-<br>Another newcomer! I’m now sharing my room with Jorge. He is here from Anacafe for a week. He specializes in post-harvest processes (like fermentation) and it’s great to have another person who actually knows how to manage experiments! 
+<br>Another newcomer! I’m now sharing my room with Jorge.<br>
+(Pictured on left)<br>
+<img src="{{ site.github.url }}/assets/img/Jorge and JJ.jpg">
+<br>He is here from Anacafe for a week. He specializes in post-harvest processes (like fermentation) and it’s great to have another person who actually knows how to manage experiments! 
 
 Workers accidentally spilled water in the patio on one set of drying pergaminos. Not bad enough to re-do the experiment. I don’t worry about these improper science anymore. 
 
