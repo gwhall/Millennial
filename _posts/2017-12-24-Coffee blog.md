@@ -28,13 +28,14 @@ Since I want to keep this focused as much as possible on my experience (aka less
 <br>-	<a href="http://www.fao.org/docrep/003/X6939E/img/dry_processing1.gif">Coffee fruit’s fate after picking (wet or dry method processes)</a>
 <br>-	Details of the wet processing method
 <br>-	<a href="https://en.wikipedia.org/wiki/Coffee_production#Wet_process">Why “fermentation” is used (to convert the mucilage from insoluble to soluble substance)</a> 
+<br>- <a href="https://en.wikipedia.org/wiki/Coffee_production_in_Guatemala">Guatemala's coffee history</a>
 <br><br><br><br>
 
 Coffee producers have always relied upon traditional methods to grow and process, which are mostly unscientific. For example, take the “stick test” (insert video of JJ). However, producers (often influenced by wine production methods) are becoming more interested in controlling conditions, and incorporating scientific techniques. The fermentation step is becoming scrutinized more, and people want to know how to manipulate it better. One company sells yeast that you can add to the batch to help homogenize the fermentation product. My bosses bought some, but didn’t know how to best use it. This is where I come in- I was asked to come to specifically test how under what conditions the yeast works best to reduce fermentation time and/or improve coffee quality. 
 
-I am by no means a fermentation expert- I come from the central coast of California, and have spent the past six years in Davis, CA earning my Bachelors in Biology, then assisting to begin and manage the ecology lab of Dr. Rachel Vannette. Here is her research (insert hyperlink to lab website). This gave me a solid idea of how to set up and perform scientific experiments. I was honored to be asked to come work in Guatemala- I hope this experience will help me get a coffee research job!
+<br>I am by no means a fermentation expert- I come from the central coast of California, and have spent the past six years in Davis, CA earning my Bachelors in Biology, then assisting to begin and manage the ecology lab of Dr. Rachel Vannette. Here is her research (insert hyperlink to lab website). This gave me a solid idea of how to set up and perform scientific experiments. I was honored to be asked to come work in Guatemala- I hope this experience will help me get a coffee research job!
 
-I arrived in Guatemala with my USA work mentality. I was in for a bit of a rude awakening- I quickly learned it was going to be impossible to perform science in the proper way I had been trained (oh no!). Lack of resources (both human and material) left no possibility for replication, and experiments could only be of the simplest kind that nearly anyone could understand. 75% of all Guatemalans can read, and only 5% get to attend university. And mind that I was in a rural area. My work had to be arranged keeping absolute practicality in mind- the goals are to make better coffee and earn the producers more money. 
+<br>I arrived in Guatemala with my USA work mentality. I was in for a bit of a rude awakening- I quickly learned it was going to be impossible to perform science in the proper way I had been trained (oh no!). Lack of resources (both human and material) left no possibility for replication, and experiments could only be of the simplest kind that nearly anyone could understand. 75% of all Guatemalans can read, and only 5% get to attend university. And mind that I was in a rural area. My work had to be arranged keeping absolute practicality in mind- the goals are to make better coffee and earn the producers more money. 
 <br><br>
 11/14-11/16
 <br>I spent the first three days learning how coffee is wet processed. The general process goes like this:, “fermentation” in concrete tank between 12-48 hours, submersion in water for 12 hours to remove mucilage, washing, drying in patio and subsequently in revolving dryers. Beans are then bagged and remain in “bodega” until they are trucked to a dry processing mill, where the parchment (“cascarillo”) will be removed from the inner “café de oro”. This “oro” is what is exported and enjoyed. 
@@ -60,7 +61,9 @@ The Team <br>
 I didn’t get to interact with all, but here are mini bios of some. 
 <br>1. El Colocho
 <br><img src="{{ site.github.url }}/assets/img/Colocho.jpg">
-<br>	Records harvest weight, and uses a portable refractometer (Brix) to record sugar content of the fruit. Normally, mature coffee has between 18-21% sugar. El colocho doesn’t have an email address, but he does have a cell phone. He has been working at the mill for 44 years, since he was 13. Back then, he was paid 50 cents a day. 
+<br>	Records harvest weight, and uses a portable refractometer (Brix) to record sugar content of the fruit.
+<br><img src="{{ site.github.url }}/assets/img/Brix with EC and JJ.jpg">
+<br>Normally, mature coffee has between 18-21% sugar. El colocho doesn’t have an email address, but he does have a cell phone. He has been working at the mill for 44 years, since he was 13. Back then, he was paid 50 cents a day. 
 <br>
 <br>2. Hilario and Hilario (aka Tomas)
 <br>	This father-son duo is the heart of the mill. They are involved in the entire process. They use sticks to direct the coffee from the initial tank to the siphons, turn on/off all machines, and oversee that the entire process runs smoothly. 
@@ -79,13 +82,14 @@ Despite the reliable efforts of these diligent workers and the many harvesters, 
 
 
 <br><br>11/20/17
-<br>Work begins tonight after depulping! I’m excited and probably look like some starry-eyed idealistic millennial, full of hope. We began the basic experiment comparing the Lalcafe Cima® yeast (aka some undisclosed strain of S. cerevisiae) vs. a control. We took various measurements for all experiements- see the data sheet at the top of the page complete disclosure. 
+<br>Work begins tonight after depulping! I’m excited and probably look like some starry-eyed idealistic millennial, full of hope. We began the basic experiment comparing the <a href="http://lalcafeyeast.com/">Lalcafe Cima® yeast (aka some undisclosed strain of S. cerevisiae)</a> vs. a control. We took various measurements for all experiements- see the data sheet at the top of the page complete disclosure. 
 At night, I tried to do some some internet research to find which factors could affect fermentation. I immediately missed having connection to a university internet- I could only read paper summaries (called Abstracts). ☹ 
 
 
 <br><br>11/21/17
 <br>Ok, today will be an expanded version of yesterday’s experiment. 
-For each experiment, we used 10 kg of pergamino in each big blue bucket. Instead of the stick method, we used pH strips to determine when to terminate. (about pH 4). 
+For each experiment, we used 10 kg of pergamino in each big blue bucket. Instead of the stick method, we used pH strips to determine when to terminate. (about pH 4).
+<br><img src="{{ site.github.url }}/assets/img/pH.jpg">
 
 Over the weekend, I met a very small producer in San Miguel, at Lake Atitlán. He told me a tale of the <a href="https://translate.google.com/translate?hl=en&sl=es&u=http://moscamed-guatemala.org.gt/&prev=search">MoscaMed program</a>. He had no doubt that the program is a conspiracy, created by México to purposefully spread the Roya in Guatemala to relatively elevate their own industry. 
 When I asked my boss, he immediately denounced that claim, saying the fly doesn’t do much to spread the roya. 
@@ -97,7 +101,9 @@ Today I became really curious about flies. Flies! The hidden answer. When I tap 
 
 
 <br><br>11/22/17
-<br>Hm, seems that the results show that the bucket with more flies arrived at its wash point more quickly. Maybe the flies somehow accelerate growth? I don’t have access to any fine mesh net to exclude them, so my only option is to cover the bucket with a thick black plastic sheet. This will, of course, also greatly reduce oxygen access, but I am too curious to not do it. We began the covered vs. open experiment later that evening. 
+<br>Hm, seems that the results show that the bucket with more flies arrived at its wash point more quickly. Maybe the flies somehow accelerate growth? I don’t have access to any fine mesh net to exclude them, so my only option is to cover the bucket with a thick black plastic sheet. 
+<br><img src="{{ site.github.url }}/assets/img/Open vs closed with datalogger.jpg">
+<br>This will, of course, also greatly reduce oxygen access, but I am too curious to not do it. We began the covered vs. open experiment later that evening. 
 I have another theory about the flies. Perhaps a higher sugar concentration -> faster ferm.. Having more sugar definitely attracts flies, so maybe this this also speeds up ferm…or maybe there is no effect? I really wish I could do combination experiment, but limited resources.. 
 
 Today I also learned that when coffee is more mature to begin with (aka higher Brix), more pulp ends up in the fermentation tanks. 
@@ -113,7 +119,9 @@ There was ice on the volano this morning. Alfredo sent me photos.
 
 
 <br><br>11/29/17
-<br>Newcomers on the finca! I’m not the only foreigner, though they still can’t call anyone else Gringo (it replaced my real name within a few days of my arrival). Japanese buyers from OCC have been here the past 2 days renewing a contract for Geisha (a pricey variety with a delicate taste). I accompanied they and an administrator to a tour of the mill. I translated to the one who spoke English. Seeing them marveling at the dozens of people squished into the back of a truck on the dirt road awakened memories of when I felt the same thing- witnessing many ridiculous and unsafe conditions of daily life. I realized how quickly I became accostumed to this culture- and once again, how humans are quite adaptable. 
+<br>Newcomers on the finca! I’m not the only foreigner, though they still can’t call anyone else Gringo (it replaced my real name within a few days of my arrival). Japanese buyers from OCC have been here the past 2 days renewing a contract for Geisha (a pricey variety with a delicate taste). I accompanied they and an administrator to a tour of the mill. I translated to the one who spoke English. Seeing them marveling at the dozens of people squished into the back of a truck on the dirt road awakened memories of when I felt the same thing- witnessing many ridiculous and unsafe conditions of daily life. 
+<br><img src="{{ site.github.url }}/assets/img/Full truck.jpg">
+<br>I realized how quickly I became accostumed to this culture- and once again, how humans are quite adaptable. 
 On our tour, we spoke of how different things were in our respective countries. We also discussed how we would use more sterile methods if we were in charge. That night, I chatted with one of them while watching fuego erupt from our neatly trimmed lawn. 
 
 We are about ready to cup our first samples! 
@@ -130,12 +138,12 @@ I’m still keeping my eye on the flies. I partly hate them because they bite an
 <br>Another newcomer! I’m now sharing my room with Jorge.<br>
 (Pictured on left)<br>
 <img src="{{ site.github.url }}/assets/img/Jorge and JJ.jpg">
-<br>He is here from Anacafe for a week. He specializes in post-harvest processes (like fermentation) and it’s great to have another person who actually knows how to manage experiments! 
+<br>He is here from <a href="https://translate.google.com/translate?hl=en&sl=es&u=https://www.anacafe.org/&prev=search">Anacafe</a> for a week. He specializes in post-harvest processes (like fermentation) and it’s great to have another person who actually knows how to manage experiments! 
 
 Workers accidentally spilled water in the patio on one set of drying pergaminos. Not bad enough to re-do the experiment. I don’t worry about these improper science anymore. 
 
 <br><br>12/11/17 
-<br>Today I had the privilege of attending the cupping session of our samples at Anacafé. There are still many samples that are drying, and will be cupped after I leave Guatemala. I had attended a handful of informal cupping sessions at Bay Area cafes, but it was new to attend one that assigned formal scores that involved meticulous notes. Here is how it goes (attach cupping process photo). 
+<br>Today I had the privilege of attending the <a href="https://en.wikipedia.org/wiki/Coffee_cupping">Coffee cupping session</a> of our samples at Anacafé. There are still many samples that are drying, and will be cupped after I leave Guatemala. I had attended a handful of informal cupping sessions at Bay Area cafes, but it was new to attend one that assigned formal scores that involved meticulous notes. Here is how it goes (attach cupping process photo). 
 The cuppers are all professional Q graders (the highest certification) who cup many dozens of samples all day. They must follow a restricted diet around when they will cup- this includes no alcohol or tobacco. Here is a video of them in action. ( Attach video of cupping. )
 
 <br><br>12/14/17
