@@ -26,7 +26,6 @@ I just ask you remember one key thing:
 Since I want to keep this focused as much as possible on my experience (aka less textbook-y), here is a link to useful background information to know. (insert hyperlinks)
 <br>-	<a href="http://redberrycoffee.co.id/wp-content/uploads/2017/04/Anatomy-of-a-Coffee-Bean-3-e1493459376430.jpg">Coffee fruit anatomy</a>
 <br>-	<a href="http://www.fao.org/docrep/003/X6939E/img/dry_processing1.gif">Coffee fruit’s fate after picking (wet or dry method processes)</a>
-<br>-	Details of the wet processing method
 <br>-	<a href="https://en.wikipedia.org/wiki/Coffee_production#Wet_process">Why “fermentation” is used (to convert the mucilage from insoluble to soluble substance)</a> 
 <br>- <a href="https://en.wikipedia.org/wiki/Coffee_production_in_Guatemala">Guatemala's coffee history</a>
 <br><br><br><br>
