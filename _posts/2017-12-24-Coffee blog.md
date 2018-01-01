@@ -11,7 +11,7 @@ image: Fermentation tank with me and datalogger.jpg
  In mid November 2017, I went to the Acatenango Region of Guatemala for five weeks to perform experiments in the wet mill to improve the fermentation phase of coffee processing. I lived in a nice finca house only a few kilometers from the bases of the Acatenango (dormant) and Fuego (active) volcanos. (insert volcano photos)
 <br><br>
 A lot happened in five weeks, but for you Tl:Dr types- here is what I learned in a nutshell. <br><br>
-An image: ![gras](img/Patio beans.jpg)
+An image: ![gras](assets/img/Patio beans.jpg)
 
 
 
