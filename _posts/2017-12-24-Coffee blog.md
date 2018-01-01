@@ -42,14 +42,16 @@ Coffee producers have always relied upon traditional methods to grow and process
 <br>
 <br>Each operation is unique. Here, days go like this;  
 <br>1. Coffee fruit picked throughout the day by entire families arrives by truck between 3 and 7 pm.  
-<br>2. Families weigh their bags by the “quintal” (100 lbs.). This data is recorded by El Colocho and used to determine payment, which occur every 15 days. 
+<br>2. <img src="{{ site.github.url }}/assets/img/Weighing quintales.jpg"> 
+<br>Families weigh their bags by the “quintal” (100 lbs.). This data is recorded by El Colocho and used to determine payment, which occur every 15 days. 
 <br>3. Fruit is dumped into giant tanks of water. Here, the first separation of quality occurs. Any “floaters” (over-ripe or otherwise defected fruit (due to pest infestation or disease) are scraped off, are depulped and sent to concrete fermentation tanks. 
-<br>	- All pulp is sent through PVC tubes to a truck outside the mill. The pulp will be sent to nurseries for use as compost. 
-<br>4. The remaining, higher-quality (more dense) coffee is washed out of the tanks, to machines called “cribas” classify coffee based on size.
+<br>	4. <img src="{{ site.github.url }}/assets/img/Pulp truck.jpg">
+<br>All pulp is sent through PVC tubes to a truck outside the mill. The pulp will be sent to nurseries for use as compost. 
+<br>5. The remaining, higher-quality (more dense) coffee is washed out of the tanks, to machines called “cribas” classify coffee based on size.
 Largest=1A, then 1B, 2, and 1C (smallest)
 Each criba has holes that allow seeds under a certain size to pass. In the first criba, 1A cannot pass, and is sent though channels. Extremely mature fruit has already been depulped, and so some pergaminos are already free. These fall to the bottom of the channels as the pass, and are directed through the a series of pipes of a canyon Colorado. The holes in this criba again allow 1A pergaminos to pass and fall into the 1A fermentation tank, but not fruit. Remaining intact fruit is passed through a depulper, uses pressure to separate pulp from pergamino. These pergaminos pass through yet another criba (another backup), then into the same 1A fermentation tank. 
-<br>5. Now, the rest of the smaller fruit that didn’t make it through the first 1A passes through a second criba for 1B. The process goes the same as for 1A, just with cribas adjusted for smaller pergaminos. 
-<br>6. The same process is repeated, for 2, and 1C, which is the smallest seed. 
+<br>6. Now, the rest of the smaller fruit that didn’t make it through the first 1A passes through a second criba for 1B. The process goes the same as for 1A, just with cribas adjusted for smaller pergaminos. 
+<br>7. The same process is repeated, for 2, and 1C, which is the smallest seed. 
 <br><br>
 Three dump trucks arrive each evening. Every time, multiple tons of coffee are processed. Yet, this is accomplished by a very few number of employees. The average worker seems to arrive around 6:30 am, and some do not leave until 8 or 9 pm (if there is no problem/ delay…which there often are).
 <br><br>
