@@ -14,7 +14,7 @@ sass:
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Griffin's Coffee Stories"
+title:		           "Griffin's Coffee Stories <img src="http://beanvictoria.com/wp-content/uploads/2016/08/bean-logo-medium.png" alt="#beanteam">"
 author:              "Griffin Hall"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
