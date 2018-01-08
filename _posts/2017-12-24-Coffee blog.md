@@ -48,9 +48,14 @@ Coffee producers have always relied upon traditional methods to grow and process
 <br>All pulp is sent through PVC tubes to a truck outside the mill. The pulp will be sent to nurseries for use as compost. 
 <br>5. The remaining, higher-quality (more dense) coffee is washed out of the tanks, to machines called “cribas” classify coffee based on size.
 Largest=1A, then 1B, 2, and 1C (smallest)
-Each criba has holes that allow seeds under a certain size to pass. In the first criba, 1A cannot pass, and is sent though channels. Extremely mature fruit has already been depulped, and so some pergaminos are already free. These fall to the bottom of the channels as the pass, and are directed through the a series of pipes of a canyon Colorado. The holes in this criba again allow 1A pergaminos to pass and fall into the 1A fermentation tank, but not fruit. Remaining intact fruit is passed through a depulper, uses pressure to separate pulp from pergamino. These pergaminos pass through yet another criba (another backup), then into the same 1A fermentation tank. 
+Each criba has holes that allow seeds under a certain size to pass. In the first criba, 1A cannot pass, and is sent though channels. Extremely mature fruit has already been depulped, and so some pergaminos are already free. These fall to the bottom of the channels as the pass, and are directed through the a series of pipes of a canyon Colorado (shown below)
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/ijnEld1fMJo" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<br>The holes in this criba again allow 1A pergaminos to pass and fall into the 1A fermentation tank, but not fruit. Remaining intact fruit is passed through a depulper, uses pressure to separate pulp from pergamino. These pergaminos pass through yet another criba (another backup), then into the same 1A fermentation tank. 
 <br>6. Now, the rest of the smaller fruit that didn’t make it through the first 1A passes through a second criba for 1B. The process goes the same as for 1A, just with cribas adjusted for smaller pergaminos. 
-<br>7. The same process is repeated, for 2, and 1C, which is the smallest seed. 
+<br>7. The same process is repeated, for 2,1C (the smallest seed classification), and nata (the bunk stuff)
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/p3ociwgKkDE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<br><br>It was tough to get a video that truly conveys the feel of the system, but here is one angle. 
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/9xiyqCGfMzY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <br><br>
 Three dump trucks arrive each evening. Every time, multiple tons of coffee are processed. Yet, this is accomplished by a very few number of employees. The average worker seems to arrive around 6:30 am, and some do not leave until 8 or 9 pm (if there is no problem/ delay…which there often are).
 <br><br>
@@ -118,7 +123,9 @@ Today I also learned that when coffee is more mature to begin with (aka higher B
 <br>Today we began to determine wash point with a mixture of pH and traditional knowledge. After 18.5 hours of fermentation, the pH of covered bucket =4, and pH open=5. Hilario said that even though pH was low enough for the covered, it still wasn’t ready because of touch (the miel didn’t come off easily). We waited 1.5 hours, then washed. 
 
 
-As part of this blog, I want to show people what the culture is like in a coffee producing country. Everyday, Jose Juan and I travel the same route through the town of <a href="https://en.wikipedia.org/wiki/Yepocapa">San Pedro Yepocapa.</a> I took a 10 min video of Yepocapa to show people where these coffee workers come from. Not having a gimble makes me realize how bumpy the road is!  In addition to the cobblestones, this town of 20,000 people has 20 speed bumps. 
+As part of this blog, I want to show people what the culture is like in a coffee producing country. Everyday, Jose Juan and I travel the same route through the town of <a href="https://en.wikipedia.org/wiki/Yepocapa">San Pedro Yepocapa.</a> I took a 10 min video of Yepocapa to show people where these coffee workers come from. (Insert full video). If you don't have that patience now, check this speedy one out. 
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/bj84ngMrVyw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<br>Not having a gimble makes me realize how bumpy the road is!  In addition to the cobblestones, this town of 20,000 people has 20 speed bumps. 
 
 There was ice on the volano this morning. Alfredo sent me photos. 
 
@@ -149,9 +156,13 @@ Workers accidentally spilled water in the patio on one set of drying pergaminos.
 
 <br><br>12/11/17 
 <br>Today I had the privilege of attending the <a href="https://en.wikipedia.org/wiki/Coffee_cupping">Coffee cupping session</a> of our samples at Anacafé. There are still many samples that are drying, and will be cupped after I leave Guatemala. I had attended a handful of informal cupping sessions at Bay Area cafes, but it was new to attend one that assigned formal scores that involved meticulous notes. Here is how it goes (attach cupping process photo). 
-The cuppers are all professional Q graders (the highest certification) who cup many dozens of samples all day. They must follow a restricted diet around when they will cup- this includes no alcohol or tobacco. Here is a video of them in action. 
-<br> <img src="{{ site.github.url }}/assets/img/Cupping.m4v">
+The cuppers are all professional Q graders (the highest certification) who cup many dozens of samples all day. They must follow a restricted diet around when they will cup- this includes no alcohol or tobacco. Here is a video of them in action. See this video- the slurping is to create a mist that evenly coats all surfaces in their mouths.
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/HWEzyQaI018" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 <br><br>12/14/17
 <br>My depature is looming and we are squeezing in the last of the experiments (mostly replicates of previous ones in an attempt to make the data a little stronger). When I leave, Jose Juan will fully take charge of monitoring the drying samples and ensuring their delivery to Anacafe after the holidays. He must also counting dry eans and record the data. I realized that no one else at the mill, besides maybe El colocho, would be able to do this. I realized I had no idea how many mill employees had attended high school, nor how many could read/ write. Data entry suddenly seemed more complicated- I had been taking my education partially for granted.  
 </body>
+
+<br><br><br>Coffee processing has some cool looking phases. 
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/pPUqHx8iRsE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/czfQ76VSd_U" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
