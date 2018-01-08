@@ -89,7 +89,11 @@ At night, I tried to do some some internet research to find which factors could 
 
 <br><br>11/21/17
 <br>Ok, today will be an expanded version of yesterday’s experiment. 
-For each experiment, we used 10 kg of pergamino in each big blue bucket. Instead of the stick method, we used pH strips to determine when to terminate. (about pH 4).
+For each experiment, we used 10 kg of pergamino in each big blue bucket. Traditionally, the stick method has been employed to determine when a lot is ready to be washed. 
+
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/85oFEAEtkyE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+<br> However, we used a slightly more modernmethod of pH strips to determine when to terminate. (about pH 4).
 <br><img src="{{ site.github.url }}/assets/img/pH.jpg">
 
 Over the weekend, I met a very small producer in San Miguel, at Lake Atitlán. He told me a tale of the <a href="https://translate.google.com/translate?hl=en&sl=es&u=http://moscamed-guatemala.org.gt/&prev=search">MoscaMed program</a>. He had no doubt that the program is a conspiracy, created by México to purposefully spread the Roya in Guatemala to relatively elevate their own industry. 
