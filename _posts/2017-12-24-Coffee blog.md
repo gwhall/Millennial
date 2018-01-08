@@ -13,8 +13,8 @@ image: Patio-beans.jpg
 A lot happened in five weeks, but for you Tl:Dr types- here is what I learned in a nutshell. <br><br>
 
 1. Most coffee people here are aware that climate change threatens coffee production. Managers realize that they must learn to adjust their practices, and this includes incorporating scientific research and methods. Yet, the lack of formal education and resources (both human labor and material) makes doing real scientific experiments nearly impossible in the field.  
-<br>2. Very few people work very long hours for 5 or 6 days a week at the mill. 
-<br>3. The producers of coffee often don’t get to consume the coffee that they process.
+<br><br>2. Very few people work very long hours for 5 or 6 days a week at the mill. 
+<br><br>3. The producers of coffee often don’t get to consume the coffee that they process.
 <br><br><br>
 
 Ok, you want to learn more? 
