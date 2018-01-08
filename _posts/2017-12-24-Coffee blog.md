@@ -123,7 +123,9 @@ Today I also learned that when coffee is more mature to begin with (aka higher B
 <br>Today we began to determine wash point with a mixture of pH and traditional knowledge. After 18.5 hours of fermentation, the pH of covered bucket =4, and pH open=5. Hilario said that even though pH was low enough for the covered, it still wasn’t ready because of touch (the miel didn’t come off easily). We waited 1.5 hours, then washed. 
 
 
-As part of this blog, I want to show people what the culture is like in a coffee producing country. Everyday, Jose Juan and I travel the same route through the town of <a href="https://en.wikipedia.org/wiki/Yepocapa">San Pedro Yepocapa.</a> I took a 10 min video of Yepocapa to show people where these coffee workers come from. (Insert full video). If you don't have that patience now, check this speedy one out. 
+As part of this blog, I want to show people what the culture is like in a coffee producing country. Everyday, Jose Juan and I travel the same route through the town of <a href="https://en.wikipedia.org/wiki/Yepocapa">San Pedro Yepocapa.</a> I took a 10 min video of Yepocapa to show people where these coffee workers come from. 
+<br.<iframe width="560" height="315" src="https://www.youtube.com/embed/YqjVQMXdFJA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<br>If you don't have that patience now, check this speedy one out. 
 <br><iframe width="560" height="315" src="https://www.youtube.com/embed/bj84ngMrVyw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <br>Not having a gimble makes me realize how bumpy the road is!  In addition to the cobblestones, this town of 20,000 people has 20 speed bumps. 
 
