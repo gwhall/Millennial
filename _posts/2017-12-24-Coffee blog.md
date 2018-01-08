@@ -30,7 +30,9 @@ Since I want to keep this focused as much as possible on my experience (aka less
 <br>- <a href="https://en.wikipedia.org/wiki/Coffee_production_in_Guatemala">Guatemala's coffee history</a>
 <br><br><br><br>
 
-Coffee producers have always relied upon traditional methods to grow and process, which are mostly unscientific. For example, take the “stick test” (insert video of JJ). However, producers (often influenced by wine production methods) are becoming more interested in controlling conditions, and incorporating scientific techniques. The fermentation step is becoming scrutinized more, and people want to know how to manipulate it better. One company sells yeast that you can add to the batch to help homogenize the fermentation product. My bosses bought some, but didn’t know how to best use it. This is where I come in- I was asked to come to specifically test how under what conditions the yeast works best to reduce fermentation time and/or improve coffee quality. 
+Coffee producers have always relied upon traditional methods to grow and process, which are mostly unscientific. For example, take the “stick test”.
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/85oFEAEtkyE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<br>However, producers (often influenced by wine production methods) are becoming more interested in controlling conditions, and incorporating scientific techniques. The fermentation step is becoming scrutinized more, and people want to know how to manipulate it better. One company sells yeast that you can add to the batch to help homogenize the fermentation product. My bosses bought some, but didn’t know how to best use it. This is where I come in- I was asked to come to specifically test how under what conditions the yeast works best to reduce fermentation time and/or improve coffee quality. 
 
 <br>I am by no means a fermentation expert- I come from the central coast of California, and have spent the past six years in Davis, CA earning my Bachelors in Biology, then assisting to begin and manage the ecology lab of Dr. Rachel Vannette. Here is her research (insert hyperlink to lab website). This gave me a solid idea of how to set up and perform scientific experiments. I was honored to be asked to come work in Guatemala- I hope this experience will help me get a coffee research job!
 
@@ -95,9 +97,6 @@ At night, I tried to do some some internet research to find which factors could 
 <br><br>11/21/17
 <br>Ok, today will be an expanded version of yesterday’s experiment. 
 For each experiment, we used 10 kg of pergamino in each big blue bucket. Traditionally, the stick method has been employed to determine when a lot is ready to be washed. 
-
-<br><iframe width="560" height="315" src="https://www.youtube.com/embed/85oFEAEtkyE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-
 <br> However, we used a slightly more modernmethod of pH strips to determine when to terminate. (about pH 4).
 <br><img src="{{ site.github.url }}/assets/img/pH.jpg">
 
