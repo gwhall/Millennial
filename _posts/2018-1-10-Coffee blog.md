@@ -8,7 +8,7 @@ image: Patio-beans.jpg
 ---
 
 <body>
- In mid November 2017, I went to the Acatenango Region of Guatemala for five weeks to perform experiments in the wet mill to improve the fermentation phase of coffee processing. Here is that <a href="https://docs.google.com/spreadsheets/d/10OmdlqpI6QcsKb0eghdLRNhbtJphvzDi3jFjCQ5syw4/edit?usp=sharing">data</a>
+ In mid November 2017, I lived in the Acatenango Region of Guatemala for five weeks. I was inivited to perform experiments in a wet mill to improve the post-harvest fermentation phase of coffee processing. <br>Here is that <a href="https://docs.google.com/spreadsheets/d/10OmdlqpI6QcsKb0eghdLRNhbtJphvzDi3jFjCQ5syw4/edit?usp=sharing">data!</a><br>Data was recorded in Spanish, so let me know if you need a translation. 
  <br>During this time, I lived in a nice finca house only a few kilometers from the bases of the Acatenango (dormant) and Fuego (active) volcanos. These ones! <br><img src="https://a.com.gt/log/imgs/2009/11/IMG_3690.JPG" alt="Two volcanos">
 <br><br>
  I traveled 30 minutes each way to work with my assistant Jose Juan Alvarez, of Anacafe
